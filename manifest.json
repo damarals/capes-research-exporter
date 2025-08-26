@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "CAPES Research Exporter",
+  "version": "3.0.0",
+  "description": "Professional tool to export CAPES research articles to RIS and BibTeX formats",
+  "permissions": ["activeTab", "downloads"],
+  "host_permissions": ["https://www.periodicos.capes.gov.br/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Export CAPES Articles"
+  },
+  "content_scripts": [{
+    "matches": ["https://www.periodicos.capes.gov.br/*"],
+    "js": ["content.js"],
+    "run_at": "document_idle"
+  }],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
