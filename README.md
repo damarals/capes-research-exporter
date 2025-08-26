@@ -15,16 +15,14 @@
 
 ## Introdução
 
-O CAPES Research Exporter é uma extensão Chrome profissional para exportar artigos acadêmicos do Portal de Periódicos CAPES para formatos bibliográficos padronizados. Desenvolvido com arquitetura empresarial, oferece exportação eficiente de múltiplas páginas com recuperação automática e interface otimizada.
+O CAPES Research Exporter é uma extensão Chrome para exportar artigos acadêmicos do Portal de Periódicos CAPES para formatos bibliográficos padronizados. Oferece exportação eficiente de múltiplas páginas com recuperação automática.
 
 ## Características
 
 - **🔄 Export Multi-páginas**: Processa automaticamente todas as páginas de resultados
 - **📄 Formatos RIS e BibTeX**: Conversão precisa com mapeamento correto de campos
 - **💾 Recuperação de Estado**: Retoma exports interrompidos após atualizações de página
-- **🎨 Interface Profissional**: Design moderno com indicador de progresso em tempo real
-- **⌨️ Atalhos de Teclado**: Troca rápida de formato (teclas 1/2)
-- **🌙 Dark Mode**: Suporte automático ao modo escuro
+- **🎨 Interface Amigável**: Design simples com indicador de progresso em tempo real
 - **🛡️ Tratamento de Erros**: Recuperação abrangente com feedback ao usuário
 
 ## Como Usar
