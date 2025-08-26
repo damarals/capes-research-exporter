@@ -1,11 +1,12 @@
 <div align="center">
+<h1>CAPES Research Exporter</h1>
     <img src="https://img.shields.io/badge/manifest-v3-green.svg" alt="Manifest V3" />
     <img src="https://img.shields.io/badge/browser-chrome-blue.svg" alt="Extensão Chrome" />
-    <img src="https://img.shields.io/github/last-commit/USERNAME/periodicos-capes-exporter/main?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o&color=blue" alt="Última Atualização" />
+    <img src="https://img.shields.io/github/last-commit/damarals/capes-research-exporter/main?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o&color=blue" alt="Última Atualização" />
 </div>
 <br />
-<div align="center"><strong>Exportador Profissional de Bibliografia Acadêmica</strong></div>
-<div align="center">Extensão Chrome para exportar artigos do Portal CAPES para formatos bibliográficos padronizados<br/> com arquitetura empresarial e experiência de usuário otimizada.</div>
+<div align="center"><strong>Exportador de Bibliografia Acadêmica do Portal CAPES</strong></div>
+<div align="center">Extensão Chrome para exportar artigos do Portal de Periódicos CAPES para formatos RIS e BibTeX<br/> com recuperação automática de estado.</div>
 <br />
 <div align="center">
   <sub>Desenvolvido por <a href="https://github.com/damarals">Daniel Amaral</a> 👨‍💻</sub>
@@ -38,10 +39,6 @@ O CAPES Research Exporter é uma extensão Chrome profissional para exportar art
 
 ## Instalação
 
-### Chrome Web Store
-*Em breve - Extensão em processo de revisão*
-
-### Instalação Manual (Modo Desenvolvedor)
 1. Baixe ou clone este repositório
 2. Abra o Chrome e navegue para `chrome://extensions/`
 3. Ative "Modo do desenvolvedor" no canto superior direito
